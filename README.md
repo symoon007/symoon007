@@ -60,7 +60,7 @@ Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end dev
 
 <h1 align="center">Visitor Count</h1>
 <p align="center">
-  <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
+  <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/symoon007/count.svg" />
 </p>
 
 [facebook]: https://web.facebook.com/symoonma 'Facebook'
