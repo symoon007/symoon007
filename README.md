@@ -3,7 +3,7 @@
 ## **I'm a Junior Full Stack Developer**
 
 <p>
-Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end developer. I've 1+ years of experienced as a Front-end developer.
+Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end development. I've 1+ years of experience as a Front-end developer.
 </p>
 <hr/>
 
