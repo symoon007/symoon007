@@ -15,7 +15,6 @@ Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end dev
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />][medium]&nbsp;
 [<img src="https://img.shields.io/badge/Stackoverflow-e0e0e0?style=for-the-badge&logo=stackoverflow&logoColor=ec7c23" />][stackoverflow]&nbsp;
-[<img src="https://img.shields.io/badge/Telegram-96d1f4?style=for-the-badge&logo=telegram&logoColor=299bd6" />][telegram]&nbsp;
 
 ## **My Skills &#8595;**
 
