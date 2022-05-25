@@ -53,7 +53,7 @@ Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end dev
 ## **Get in Touch &#8595;**
 
 - Email: symoonma@gmail.com
-- Facebook: https://www.facebook.com/symoon007
+- Facebook: https://www.facebook.com/symoon.ma
 - LinkedIn: https://www.linkedin.com/in/symoon007
   <br/> <br/>
 
