@@ -1,6 +1,6 @@
 ### **Hi, I'm [Symoon][facebook]** :wave:
 
-## **I'm a Junior Full Stack Developer**
+## **I'm a Junior Full Stack Developer (Learner)**
 
 <p>
 Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end development. I've 1+ years of experience as a Front-end developer.
