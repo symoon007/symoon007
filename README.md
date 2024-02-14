@@ -1,4 +1,4 @@
-### **Hi, I'm [Symoon][facebook]** :wave:
+### **Hi, I'm [Symoon][linkedin]** :wave:
 
 ## **I'm a Junior Full Stack Developer (Learner)**
 
@@ -54,7 +54,7 @@ Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end dev
 
 - Email: symoonma@gmail.com
 - Facebook: https://www.facebook.com/symoon.ma
-- LinkedIn: https://www.linkedin.com/in/symoon007
+- LinkedIn: https://www.linkedin.com/in/symoonin
   <br/> <br/>
 
 <h1 align="center">Visitor Count</h1>
