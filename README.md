@@ -64,7 +64,7 @@ Hi there! I'm Symoon. I'm a Junior Full Stack Developer focused on Front-end dev
 
 [facebook]: https://web.facebook.com/symoonma 'Facebook'
 [instagram]: https://www.instagram.com/symoon0007 'Instagram'
-[linkedin]: https://www.linkedin.com/in/symoon007 'LinkedIn'
+[linkedin]: https://www.linkedin.com/in/symoonin 'LinkedIn'
 [github]: https://github.com/symoon007 'Github'
 [medium]: https://medium.com/@symoon007 'Medium'
 [stackoverflow]: https://stackoverflow.com/users/14739490/symoon 'Stackoverflow'
